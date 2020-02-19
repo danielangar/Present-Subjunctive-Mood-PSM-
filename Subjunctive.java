@@ -65,7 +65,7 @@ public class Subjunctive {
 	 * Be sure to specify the name of your application. If the application name is {@code null} or
 	 * blank, the application will log a warning. Suggested format is "MyCompany-ProductName/1.0".
 	 */
-	private static final String APPLICATION_NAME = "senior-project-1245";
+	private static final String APPLICATION_NAME = "";
 
 	private static final int MAX_RESULTS = 4;
 	/**
